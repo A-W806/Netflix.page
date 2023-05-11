@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #000;
+    padding: 20px;
+}
+
+nav img {
+    max-width: 100px;
+}
+
+.hero-section {
+    background-image: url(netflix-background.jpg);
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    padding: 100px 20px;
+    text-align: center;
+}
+
+.hero-section h1 {
+    font-size: 40px;
+}
+
+.hero-section p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 15px 30px;
+    font-size: 20px;
+    background-color: #e50914;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.content-section {
+    padding: 50px;
+    text-align: center;
+}
+
+footer {
+    background-color: #000;
+    padding: 20px;
+    color: #fff;
+    text-align: center;
+}
